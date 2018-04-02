@@ -4,12 +4,36 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Full stack developer with more than 5 years of experience.
 
-### More Information
+I am well-versed in:
+- Software engineering
+- RESTful services
+- Android/Java
+- Python
+- Data Modeling
+- DataBase(SQL/NoSQL)
+- MVC/MVP/MVVM
 
-A place to include any other types of information that you'd like to include about yourself.
+Have some good experience with:
+- OpenStack
+- CloudFoundry
+- Openshift
+- Docker
+- Kubernetes
+- DevOps
+- Server(Linux), Network (L2 & L3), and Hosting Environment
 
-### Contact me
+Currently working on:
+- Machine learning
+- Artificial neural networks
+- Deep Learning
+- Information Extraction
+- Sentiment Analysis
+- Big Data
 
-[email@domain.com](mailto:email@domain.com)
+
+
+Contacts:  
+Phone: (+98) 9376866378  
+[hhio618@gmail.com](mailto:hhio618@gmail.com)
